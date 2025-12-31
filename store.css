@@ -1,0 +1,253 @@
+#header {
+    /* background-color: blueviolet; */
+    height: 100px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+#footer {
+    background-color: rgb(197, 220, 230);
+    height: 80px;
+    font-size: 20px;
+    text-align: center;
+    clear: both;
+    padding-top: 25px;
+    margin-top: 5px;
+    opacity: .9;
+}
+#footer a{
+    text-decoration: none;
+}
+
+.fa-twitter {
+    margin: 0 5px;
+}
+
+.fa-facebook {
+    margin: 0 5px;
+}
+
+.fa-instagram {
+    margin: 0 5px;
+}
+
+#products{
+    background-color: white;
+}
+
+#products div {
+
+    /* border: 1px solid; */
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+    width: 200px;
+}
+
+/* #products div:hover {
+    border: 1px solid #708; */
+    /* box-shadow: 0 0 0 1px black;
+} */
+#products div{
+    border: 1px solid rgb(212, 209, 209);
+}
+
+#products img {
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+}
+
+#products h3 {
+    font-family: sans-serif;
+}
+
+#cartIcon {
+    width: 20px;
+    height: 25px;
+}
+
+#cap {
+    /* display: flex; */
+    z-index: 9;
+    justify-content: left;
+    background-color: lightgreen;
+    width: min-content;
+    /* margin-top: -7%; */
+    /* z-index: 9; */
+    position: relative;
+    /* position: fixed; */
+
+    margin-top: 7px;
+    /* margin-bottom: 2px; */
+    opacity: 0.8;
+    position: fixed;
+}
+
+
+
+.main-section {
+    background-color: #F8F8F8;
+    margin-top: 50px;
+}
+
+.dropdown {
+    float: right;
+    /* padding-right: 30px; */
+
+}
+
+.btn {
+    border: 0px;
+    margin: 10px 0px;
+    box-shadow: none !important;
+
+}
+
+.dropdown .dropdown-menu {
+    padding: 20px;
+    top: 30px !important;
+    width:350px !important;
+    left: -100px !important;
+    box-shadow: 0px 5px 30px black;
+}
+
+/* l-110 w350 */
+
+.total-header-section {
+    border-bottom: 1px solid #d2d2d2;
+}
+
+.total-section p {
+    margin-bottom: 20px;
+}
+
+.cart-detail {
+    padding: 15px 0px;
+}
+
+.cart-detail-img img {
+    width: 100%;
+    height: 100%;
+    padding-left: 15px;
+}
+
+.cart-detail-product p {
+    margin: 0px;
+    color: #000;
+    font-weight: 500;
+}
+
+.cart-detail .price {
+    font-size: 12px;
+    margin-right: 10px;
+    font-weight: 500;
+}
+
+.cart-detail .count {
+    color: #C2C2DC;
+}
+
+.checkout {
+    border-top: 1px solid #d2d2d2;
+    padding-top: 15px;
+}
+
+.checkout .btn-primary {
+    border-radius: 50px;
+    height: 50px;
+}
+
+.dropdown-menu:before {
+    content: " ";
+    position: absolute;
+    top: -20px;
+    right: 50px;
+    border: 10px solid transparent;
+    border-bottom-color: #fff;
+}
+
+body {
+    /* background-repeat: no-repeat; */
+    /* background-size: cover; */
+    background-position: center;
+    background-image: url('https://preview.redd.it/first-full-colour-image-of-deep-space-from-the-james-webb-v0-upud5pzg32b91.jpg?width=640&crop=smart&auto=webp&s=4fc54201ff47246e16830b7fa535067217d91131');
+}
+
+#about {
+    margin-top: 14px;
+    display: block;
+    /* height:200px; */
+    /* background-color: bisque; */
+    /* margin-top: 14px; */
+    margin-bottom: 40px;
+
+    flex-wrap: wrap;
+    /* background-image: url('https://photoshopcafe.com/wp-content/uploads/2022/07/Webb-space-telescope_02.jpg'); */
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    background-position: center;
+    background-size: contain;
+
+    color: white;
+    background-size: cover;
+    text-align: left;
+    /* padding-left: 15px; */
+    padding-top: 10px;
+    align-items: center;
+
+}
+
+/* @media only screen and(max-width:594px){
+    #about{
+       height: fit-content;
+    }
+} */
+
+
+#text {
+    background-image: url('https://images.unsplash.com/photo-1596889382335-4d750e0bce46?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzV8fHRlbGVzY29wZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60');
+    justify-self: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    opacity: 0.8;
+}
+
+#h1 {
+    font-family: monospace;
+    padding-top: 6px;
+}
+
+#rmv_btn {
+    cursor: pointer;
+}
+
+#addToCartButton {
+    cursor: pointer;
+}
+
+.buttonRemove {
+    cursor: pointer;
+}
+
+.centered {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-small;
+    color: rgba(123, 81, 81, 0.566);
+}
+
+.centered:hover {
+    color: #708;
+    cursor: pointer;
+}
+
+/* #products :hover .centered{
+    display: block; color: purple;
+} */
