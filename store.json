@@ -4,56 +4,56 @@
       "id": 1,
       "name": "Meade LX600-ACF 16″",
       "price": 9800.00,
-      "image": "https://www.astronomytrek.com/wp-content/uploads/2019/03/Meade-LX600-ACF-16-inches.png",
+      "image": "",
       "info": "The LX600 integrates a unique star tracking and object finding system into the telescope mount. This integration allows the telescope to center your target perfectly in the field of view"
     },
     {
       "id": 2,
       "name": "Celestron EdgeHD 14 Inch",
       "price": 4300.00,
-      "image": "https://www.astronomytrek.com/wp-content/uploads/2019/03/Celestron-EdgeHD-14-Inch-Optical-Tube-Assembly-768x768.jpg",
+      "image": "",
       "info": "See the Universe in HD EdgeHD is an aplanatic, flat field Schmidt-Cassegrain telescope that produces aberration-free images across a wide visual and photographic field of view. The optical system was designed to reduce more than just off-axis star coma"
     },
     {
       "id": 3,
       "name": "Meade 14″ LX200-ACF Telescope",
       "price": 8500.00,
-      "image": "https://www.astronomytrek.com/wp-content/uploads/2019/03/Meade-14-iInch-LX200-ACF.jpg",
+      "image": "",
       "info": "See things closer with this dual function Smithsonian telescope and Monocular. Includes aluminum tabletop tripod."
     },
     {
       "id": 4,
       "name": "Saxon 1025 AZ4 Telescope",
       "price": 3500.00,
-      "image": "https://www.saxon.com.au/media/catalog/product/cache/077d9b3c6c55a2fe67e6991b5924254d/s/a/saxon_1025_az3_refractor_telescope.jpg",
+      "image": "",
       "info": "This versatile 1025AZ4 Pioneer Refractor Telescope that sits on an Alt-Azimuth mount offers excellent views of the sky (or of land, if you so wish to use it as a spotting scope). This scope comes with a durable steel tripod. "
     },
     {
       "id": 5,
       "name": "Unistellar eQuinox Telescope",
       "price": 7800.00,
-      "image": "https://www.astroshop.eu/Produktbilder/zoom/77413_5/Unistellar-Smart-Telescope-N-114-450-eQuinox-2.jpg",
+      "image": "",
       "info": "Its Smart Light Pollution Reduction technology uses advanced image processing to filter out the effects of city lights, allowing for clear, high-resolution images of celestial objects"
     },
     {
       "id": 6,
       "name": "Infinity 80MM Altazimuth Telescope",
       "price": 14580.00,
-      "image": "https://i5.walmartimages.com/asr/a303d5cb-6661-45f9-b4e7-3443067e2557_1.603c411be5644c04c1f6ee7bea83d2ea.jpeg",
+      "image": "",
       "info": "Ideal for the observer who views both astronomical and terrestrial objects, the Meade Infinity Series combines an altazimuth mount and quality optics for a superb value. For newcomers and beginners alike, these refracting telescopes are a great way for you to discover the cosmos and the outdoors."
     },
     {
       "id": 7,
       "name": "Celestron Astro Master 114EQ",
       "price": 9850.00,
-      "image": "https://m.media-amazon.com/images/I/61yMSa8MOlL._AC_SX466_.jpg",
+      "image": "",
       "info": "A favorite first telescope for beginners, the AstroMaster 114EQ Newtonian reflector offers sharp, detailed views of Saturn’s rings, Jupiter’s moons, and more. It’s the easiest way to discover the night sky."
     },
     {
       "id": 8,
       "name": "Meade 14″ LX850-ACF (f/8)",
       "price": 12900.00,
-      "image": "https://www.astronomytrek.com/wp-content/uploads/2019/03/Meade-14-inch-LX850-ACF.jpg",
+      "image": "",
       "info": "The fast f/8 Advanced Coma Free optical system produces a wider, flatter field with no coma for pinpoint stars out to the edge of larger imaging sensors and extreme wide angle eyepieces."
     }
   ]
