@@ -4,49 +4,49 @@
       "id": 1,
       "name": "Meade LX600-ACF 16″",
       "price": 9800.00,
-      "image": "",
+      "image": "Asset/teles1.jpg",
       "info": "The LX600 integrates a unique star tracking and object finding system into the telescope mount. This integration allows the telescope to center your target perfectly in the field of view"
     },
     {
       "id": 2,
       "name": "Celestron EdgeHD 14 Inch",
       "price": 4300.00,
-      "image": "",
+      "image": "Asset/teles2.jpg",
       "info": "See the Universe in HD EdgeHD is an aplanatic, flat field Schmidt-Cassegrain telescope that produces aberration-free images across a wide visual and photographic field of view. The optical system was designed to reduce more than just off-axis star coma"
     },
     {
       "id": 3,
       "name": "Meade 14″ LX200-ACF Telescope",
       "price": 8500.00,
-      "image": "",
+      "image": "Asset/teles3.jpg",
       "info": "See things closer with this dual function Smithsonian telescope and Monocular. Includes aluminum tabletop tripod."
     },
     {
       "id": 4,
       "name": "Saxon 1025 AZ4 Telescope",
       "price": 3500.00,
-      "image": "",
+      "image": "Asset/teles4.jpg",
       "info": "This versatile 1025AZ4 Pioneer Refractor Telescope that sits on an Alt-Azimuth mount offers excellent views of the sky (or of land, if you so wish to use it as a spotting scope). This scope comes with a durable steel tripod. "
     },
     {
       "id": 5,
       "name": "Unistellar eQuinox Telescope",
       "price": 7800.00,
-      "image": "",
+      "image": "Asset/teles5.jpg",
       "info": "Its Smart Light Pollution Reduction technology uses advanced image processing to filter out the effects of city lights, allowing for clear, high-resolution images of celestial objects"
     },
     {
       "id": 6,
       "name": "Infinity 80MM Altazimuth Telescope",
       "price": 14580.00,
-      "image": "",
+      "image": "Asset/teles6.jpg",
       "info": "Ideal for the observer who views both astronomical and terrestrial objects, the Meade Infinity Series combines an altazimuth mount and quality optics for a superb value. For newcomers and beginners alike, these refracting telescopes are a great way for you to discover the cosmos and the outdoors."
     },
     {
       "id": 7,
       "name": "Celestron Astro Master 114EQ",
       "price": 9850.00,
-      "image": "",
+      "image": "Asset/teles7.jpg",
       "info": "A favorite first telescope for beginners, the AstroMaster 114EQ Newtonian reflector offers sharp, detailed views of Saturn’s rings, Jupiter’s moons, and more. It’s the easiest way to discover the night sky."
     },
     {
